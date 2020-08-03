@@ -1,0 +1,51 @@
+[
+    {
+        "id": 1,
+        "name": "Goku",
+        "race": "Saiyan",
+        "highestLevel": "Super Saiyan God",
+        "specialAttack": "Kamehameha"
+    },
+    {
+        "id": 2,
+        "name": "Gohan",
+        "race": "Saiyan",
+        "highestLevel": "Super Saiyan 2",
+        "specialAttack": "Ultimate Kamehameha"
+    },
+    {
+        "id": 3,
+        "name": "Vegeta",
+        "race": "Saiyan",
+        "highestLevel": "Super Saiyan God",
+        "specialAttack": "Galick Gun"
+    },
+    {
+        "id": 4,
+        "name": "Piccolo",
+        "race": "Namekian",
+        "highestLevel": 8000,
+        "specialAttack": "Special-Beam Cannon"
+    },
+    {
+        "id": 5,
+        "name": "Cell",
+        "race": "Android",
+        "highestLevel": "Perfect Cell",
+        "specialAttack": "Cell's Spirit Bomb" 
+    },
+    {
+        "id": 6,
+        "name": "Krillin",
+        "race": "Human",
+        "highestLevel": 10,
+        "specialAttack": "Getting Owned"
+    },
+    {
+        "id": 7,
+        "name": "Popo",
+        "race": "Genie",
+        "highestLevel": 300,
+        "specialAttack": "Energy Blast"
+    }
+]
